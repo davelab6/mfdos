@@ -1,4 +1,4 @@
-![MFDOS](logo.png)
+![logo.png](logo.png)
 
 # Multiple Font Distributors Onboarding Summit
 
