@@ -24,8 +24,8 @@ If you wish to dial in, a video conference will be offered via Google Hangouts.
 
 The project was initiated by Dave Crossland in 2013 to accelerate the onboarding process for Google Fonts. 
 In 2017 Lasse Fister rewrote it into a modern, modular architecture with a web [dashboard](https://GitHub.com/GoogleFonts/Fontbakery-Dashboard) suitable for both individuals and large distributors: 
-A UI and a cloud system, to scale to checking 1,000s of files super fast in parallel using 1,000s of "container" virtual machines. (See his [TypoLabs 2018 talk on YouTube](https://www.youtube.com/watch?v=Kqhzg89zKYw).)
+A UI and a cloud system, to scale to checking 1,000s of files super fast in parallel using 1,000s of "container" virtual machines. 
 
 It now has an active community of contributors from foundries around the world, including Adobe Typekit, Dalton Maag, Google Fonts and Type Network.
 
-If you are a developer and interesting in writing custom checks, see the [writing-specifications.md](https://github.com/googlefonts/fontbakery/blob/master/docs/writing-specifications.md) documentation. 
+If you are a developer and interesting in writing custom checks, see the [writing-specifications.md](https://github.com/googlefonts/fontbakery/blob/master/docs/writing-specifications.md) documentation, and Lasse's [TypoLabs 2018 Developer's Presentation](https://www.youtube.com/watch?v=Kqhzg89zKYw) on YouTube.
